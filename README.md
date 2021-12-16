@@ -7,4 +7,4 @@ Syrinx is an open source and modular method of converting analog resistances to 
 <br /><b>PiAnalog.py</b> is a fork of MONK MAKES PiAnalog. This was modified to allow for more than one set of GPIO pins to be used to measure analog resistances
 <br />
 
-![Alt text](master/circuit.png ?raw=true "Circuit")
+![Alt text](../circuit.png ?raw=true "Circuit")
