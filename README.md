@@ -13,5 +13,4 @@ Syrinx is an open source and modular method of converting analog resistances to 
   <br />
   <br />
   
-[![Watch the video](https://img.youtube.com/vi/eDx1hAxfSNI/maxresdefault.jpg)](https://youtu.be/eDx1hAxfSNI)
 
